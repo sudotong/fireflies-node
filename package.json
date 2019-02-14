@@ -1,0 +1,26 @@
+{
+  "name": "fireflies",
+  "version": "0.0.1",
+  "description": "Fireflies.ai API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudotong/fireflies-node.git"
+  },
+  "keywords": [
+    "fireflies",
+    "transcription",
+    "meeting",
+    "notes",
+    "api"
+  ],
+  "author": "Fireflies <support@fireflies.ai> (https://fireflies.ai)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudotong/fireflies-node/issues"
+  },
+  "homepage": "https://github.com/sudotong/fireflies-node#readme"
+}
